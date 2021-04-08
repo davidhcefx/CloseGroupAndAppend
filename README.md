@@ -1,6 +1,6 @@
 # CloseGroupAndAppend
 
-A Sublime Text plugin to close current group (pane) and append all tabs to the back of the previous group.
+A Sublime Text plugin to close current group (pane) and append all tabs to the **BACK** of the previous group. (The default can only prepend to the FRONT)
 
 ![demo-animation](demo.gif)
 
