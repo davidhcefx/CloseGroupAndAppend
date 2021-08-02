@@ -7,4 +7,5 @@ A Sublime Text plugin to close current group (pane) and append all tabs to the *
 ## Usage
 
 - Type in the *Command Palette* to use it.
-- Or bind to a key binding with command called `close_group_and_append`.
+  - You can also activate the commands `New Group`, `Move File to New Group` and `Close Group` by commenting out those sections in `Default.sublime-commands`.
+- Or bind to a key binding with a command called `close_group_and_append`.
