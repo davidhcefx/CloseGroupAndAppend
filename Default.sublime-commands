@@ -1,17 +1,17 @@
 [
-    // {
-    //     "caption": "New Group",
-    //     "command": "new_pane",
-    //     "args": {"move": false}
-    // },
-    // {
-    //     "caption": "Move File to New Group",
-    //     "command": "new_pane",
-    // },
-    // {
-    //     "caption": "Close Group",
-    //     "command": "close_pane",
-    // },
+    {
+        "caption": "New Group",
+        "command": "new_pane",
+        "args": {"move": false}
+    },
+    {
+        "caption": "Move File to New Group",
+        "command": "new_pane",
+    },
+    {
+        "caption": "Close Group",
+        "command": "close_pane",
+    },
     {
         "caption": "Close Group and Append Tabs",
         "command": "close_group_and_append"
